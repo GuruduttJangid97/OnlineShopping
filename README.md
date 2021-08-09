@@ -50,7 +50,7 @@ $ npm start
 
 ## Support
 
-- Contact: [Basir](mailto:sharmagurudutt9950@hotmail.com)
+- Contact: [Gurudutt Jangid](mailto:sharmagurudutt9950@hotmail.com)
 
 ## Lessons
 
