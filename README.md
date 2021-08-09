@@ -1,36 +1,11 @@
 # Online ECommerce Website
 ![OnliineEcommerce](/template/images/OnliineEcommerce.jpg)
 
-## PLEASE DO NOT SEND PULL REQUEST
-## ALL PRs WILL BE REJECTED UNTIL DECEMBER 2020
-
-# React & Node Tutorial - Full ECommerce in 9 Hours [2021]
-
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
-
-## Demo Website
-
-- 👉 Heroku : [https://newOnliineEcommerce-final.herokuapp.com](https://newOnliineEcommerce-final.herokuapp.com)
-- 👉 AWS : [https://OnliineEcommerce.webacademy.pro](https://OnliineEcommerce.webacademy.pro)
-
-
-## You Will Learn
-
-- HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
-- React: Components, Props, Events, Hooks, Router, Axios
-- Redux: Store, Reducers, Actions
-- Node & Express: Web API, Body Parser, File Upload, JWT
-- MongoDB: Mongoose, Aggregation
-- Development: ESLint, Babel, Git, Github,
-- Deployment: Heroku
-- Watch React & Node Tutorial
-
 ## Run Locally
 
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/OnliineEcommerce.git
 $ cd OnliineEcommerce
 ```
 
@@ -75,8 +50,7 @@ $ npm start
 
 ## Support
 
-- Q/A: https://webacademy.pro/OnliineEcommerce
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
+- Contact: [Basir](mailto:sharmagurudutt9950@hotmail.com)
 
 ## Lessons
 
